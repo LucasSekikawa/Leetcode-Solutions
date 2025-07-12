@@ -1,5 +1,6 @@
 # Leetcode Problems Links
 
+- **[1. Two Sum](https://leetcode.com/problems/two-sum/)**
 - **[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)**
 - **[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)**
 - **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)**
@@ -11,4 +12,8 @@
 - **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)**
 - **[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
 - **[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)**
+- **[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)**
+- **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
+- **[290. Word Pattern](https://leetcode.com/problems/word-pattern/)**
+- **[383. Ransom Note](https://leetcode.com/problems/ransom-note/)**
 - **[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)**
