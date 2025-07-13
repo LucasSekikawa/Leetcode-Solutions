@@ -9,7 +9,7 @@
 - **[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)**
 - **[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)**
 - **[66. Plus One](https://leetcode.com/problems/plus-one/)**
-- **[67. Add Binary](ttps://leetcode.com/problems/add-binary/)**
+- **[67. Add Binary](https://leetcode.com/problems/add-binary/)**
 - **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)**
 - **[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
 - **[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)**
