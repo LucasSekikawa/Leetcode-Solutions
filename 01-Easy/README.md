@@ -13,6 +13,7 @@
 - **[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)**
 - **[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)**
 - **[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)**
+- **[169. Majority Element](https://leetcode.com/problems/majority-element/)**
 - **[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)**
 - **[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)**
 - **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
